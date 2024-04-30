@@ -70,22 +70,15 @@ p{
 @media screen and (max-width:600px){
     .container{
         display: flex;
-        width: 65vw;
-        
+        width:65%;
     }
 
+
     #faq-sec{
-        width: 60vw;
+        width: 60rem;
         border-radius: 8px;
         background-color: hsl(0, 0%, 100%);
         margin-top: 5rem;
         box-shadow:1px 1px  20px rgba(0, 0, 0, 20.5);
-    }
-    p{
-        font-size: 0.78rem;
-        font-weight: 0.55rem;
-        word-spacing: 0.20rem;
-        width:85%;
-        
     }
 }
