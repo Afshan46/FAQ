@@ -1,3 +1,4 @@
+
 @import url(https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
 body{
     margin: 0;
@@ -10,12 +11,14 @@ body{
     justify-content: center;
     align-items: center;
     background-image: url("background-pattern-desktop.svg");
+ 
     background-repeat: no-repeat;
     width:80%;
     margin: 0 auto;
     background-color: hsl(275, 100%, 97%);
     box-shadow: 5px 5px 15px hsl(0, 1%, 23%);
-    padding: 80px;
+    padding: 80px
+    ;
 }
 #faq-sec{
     width: 60%;
@@ -49,17 +52,17 @@ h1{
 }
 
 img{
-    margin-right: 1rem;
+    margin-right:2rem;
     height: 1.50rem;
     
 }
 p{
     margin-top: 0.35rem;
     margin-left: 1.55rem;
-    font-size: 0.78rem;
-    font-weight: 0.55rem;
+    font-size: 0.93rem;
+    font-weight: 0.35rem;
     word-spacing: 0.20rem;
-    width:80%;
+    width:70%;
     color: rgb(26, 25, 21);
 }  
 .question{
