@@ -67,7 +67,7 @@ p{
     justify-content: space-between;
     align-items: space-between;   
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:375px){
     .container{
         display: flex;
         width: 60%;
@@ -84,7 +84,7 @@ p{
         font-size: 0.78rem;
         font-weight: 0.55rem;
         word-spacing: 0.20rem;
-        width:90%;
+        width:85%;
         
     }
 }
