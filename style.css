@@ -18,7 +18,7 @@ body{
     padding: 80px;
 }
 #faq-sec{
-    width: 50%;
+    width: 60%;
     border-radius: 8px;
     background-color: hsl(0, 0%, 100%);
     margin-top: 5rem;
@@ -59,7 +59,7 @@ p{
     font-size: 0.78rem;
     font-weight: 0.55rem;
     word-spacing: 0.20rem;
-    width:90%;
+    width:80%;
     color: rgb(26, 25, 21);
 }  
 .question{
