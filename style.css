@@ -67,14 +67,15 @@ p{
     justify-content: space-between;
     align-items: space-between;   
 }
-@media screen and (max-width:375px){
+@media screen and (max-width:600px){
     .container{
         display: flex;
-        width: 60%;
+        width: 65vw;
+        
     }
 
     #faq-sec{
-        width: 95%;
+        width: 60vw;
         border-radius: 8px;
         background-color: hsl(0, 0%, 100%);
         margin-top: 5rem;
